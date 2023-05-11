@@ -1,3 +1,3 @@
 # yamdb_final
-yamdb_final
-https://github.com/sabina045/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
+
+![push](https://github.com/sabina045/yamdb_final/actions/workflows/yamdb_workflow/badge.svg?event=push)
