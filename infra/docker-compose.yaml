@@ -30,5 +30,6 @@ services:
 
 volumes:
   postgres_value:
+      external: true
   static_value:
   media_value:
