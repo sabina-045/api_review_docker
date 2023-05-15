@@ -11,13 +11,13 @@
 >API Reviews - это API без лишних деталей. Благодаря этому его легко освоить и доработать. Через приложение уже можно читать информацию о разных произведениях,оставлять отзывы и комментарии к отзывам. Эту основу легко расширить, добавляя новые возможности.
 
 ### Технологии:
-Django==3.2.10
-djangorestframework==3.12.4
-PyJWT==2.1.0
-djangorestframework-simplejwt==5.2.2
-psycopg2-binary==2.9.6
-gunicorn==20.1.0
-Docker==20.10.24
++ Django==3.2.10
++ djangorestframework==3.12.4
++ PyJWT==2.1.0
++ djangorestframework-simplejwt==5.2.2
++ psycopg2-binary==2.9.6
++ gunicorn==20.1.0
++ Docker==20.10.24
 
 #### Как запустить проект, упакованный в контейнер Docker:
 
