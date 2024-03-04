@@ -24,8 +24,7 @@
 'https://www.docker.com/'
 + клонируем репозиторий:
 `git clone git@github.com:sabina-045/api_reviews_docker.git`
-+ создаем файл `.env` в директории `yamdb_final/infra/`
-    + заполняем его по образцу:
++ создаем файл `.env` в директории `yamdb_final/infra/` и заполняем его по образцу:
    * DB_ENGINE=django.db.backends.postgresql # указываем, что работаем с postgresql
    * DB_NAME=postgres # имя базы данных
    * POSTGRES_USER=postgres # логин для подключения к базе данных
