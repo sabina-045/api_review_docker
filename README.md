@@ -1,4 +1,4 @@
-# api_review_docker
+# api_reviews_docker
 
 ![maste](https://github.com/sabina-045/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master)
 
@@ -23,7 +23,7 @@
 + устанавливаем Docker
 'https://www.docker.com/'
 + клонируем репозиторий:
-`git clone git@github.com:sabina-045/yamdb_final.git`
+`git clone git@github.com:sabina-045/api_reviews_docker.git`
 + создаем файл `.env` в директории `yamdb_final/infra/`
     + заполняем его по образцу:
     DB_ENGINE=django.db.backends.postgresql # указываем, что работаем с postgresql
